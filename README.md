@@ -34,6 +34,7 @@ Spark
 * Students will be able to differentiate between Spark RDDs and Spark Dataframes and when each is appropriate
 * Students will be able to locate and explore the Spark.ML documentation
 * Students will be able to  code along a text classification problem using four different ml algorithms, a data prep pipeline, and gridsearch to fine tune a model
+
 #### Prerequisite knowledge:
 
 * Students should have previous knowledge implementing supervised learning models using scikit-learn
@@ -44,11 +45,11 @@ Spark
 * [Parallel and Distributed Computing with Map-Reduce](https://github.com/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce)
 * [Big Data Analytics on Apache Spark](https://github.com/learn-co-curriculum/dsc-big-data-analytics-apache-spark)
 * [Installing and Configuring PySpark with Docker](https://github.com/learn-co-curriculum/dsc-spark-docker-installation)
-* [Understanding Spark Context - Lab](https://github.com/learn-co-curriculum/dsc-sparkcontext-lab)
 * [Machine Learning with Spark](https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark)
 
 #### Post Learn-Materials:
 
+* [Understanding Spark Context - Lab](https://github.com/learn-co-curriculum/dsc-sparkcontext-lab)
 * [Resilient Distributed Datasets (RDDs) - Lab](https://github.com/learn-co-curriculum/dsc-resilient-distributed-datasets-rdd-lab)
 * [Word Count with Map-Reduce - Lab](https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab)
 * [Machine Learning with Spark -  Lab](https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab)
